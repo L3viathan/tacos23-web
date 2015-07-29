@@ -1,0 +1,40 @@
+<div class="hero-unit">
+<div class="alert alert-success">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  Die <a href="?page=abstracts">Abstracts der Vortr&auml;ge</a> sind da!
+</div>
+<div>
+<!-- <h1> Willkommen </h1> -->
+<img src="logo.png" style="height:150px;" />
+<p>
+Die TaCoS ist vorbei! Wir freuen uns auf die n&auml;chste TaCoS in Bremen.
+<br>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="span4">
+<div>
+<h2>
+Programm
+<br>
+</h2>
+Das vorl&auml;ufige Programm ist da. Hier findet ihr den Zeitplan von Donnerstag Abend bis Sonntag Mittag.
+</div>
+<br/>
+<a class="btn" href="?page=programm"> Zum Programm &raquo; </a>
+</div>
+<div class="span4">
+<div>
+<h2> Anfahrt &amp; Unterkunft</h2>
+<p> Saarbr&uuml;cken ist die Landeshauptstadt des Saarlandes und liegt am Drei-L&auml;nder-Eck Luxemburg-Frankreich-Deutschland. Wie ihr nach Saarbr&uuml;cken kommt und wo ihr w&auml;hrend der Tagung &uuml;bernachten k&ouml;nnt, erfahrt ihr hier. </p>
+</div>
+<a class="btn" href="?page=anfahrt"> Details &raquo; </a>
+</div>
+<!-- <div class="span4">
+<div>
+<h2> Anmeldung <span class="label label-info">Verl&auml;ngert bis 14.05.</span></h2>
+<p> Bitte denkt daran, euch rechtzeitig anzumelden!</p>
+</div>
+<a class="btn btn-success" href="?page=anmeldung"> Zum Anmeldeformular &raquo; </a>
+</div> -->

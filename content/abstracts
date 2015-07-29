@@ -1,0 +1,86 @@
+<div class="row">
+<div>
+<div class="page-header">
+<h1>
+Abstracts
+<!-- <small><del>Anmeldefrist:1.5.2013</del>&nbsp; &nbsp;<span class="label label-info">Verl&auml;ngert bis 14.05.</span></small> -->
+<br>
+</h1>
+</div>
+<h2>Metaphor Detection through Term Frequency
+<small>Marc Schulder</small></h2>
+<p>Metaphors are used to replace complicated or unfamiliar ideas with familiar, yet unrelated concepts that share an important attribute with the intended idea. The result is a conceptual mapping between metaphoric source and literal target meaning. Computational metaphor processing is divided into detection and interpretation.</p>
+<p>To detect metaphors, most existing approaches attempt to identify these conceptual mappings. They require resources for the source (metaphor) as well as the target domain, and a set of defined mappings between the two. Creating these resources is expensive and limits the scope of these systems
+They are also usually restricted to well-observed, conventionalized metaphors, and can not deal with neologisms. Since metaphors are a productive area of language, this is a major shortfall.</p>
+<p>We propose a statistical approach to metaphor detection that utilizes the uncommonness of novel metaphors. Words that do not match a text's typical vocabulary are highlighted as metaphor candidates. No knowledge of semantic concepts or the metaphor's source domain is required for this. We analyze the performance of this approach as an unsupervised standalone classifier and as a feature in a supervised graphical model.</p>
+
+<br/><hr/><br/>
+
+<h2>Vowel Harmony in Quebec French
+<small>Aleksandra Piwowarek</small></h2>
+<p>Vowel harmony in Québec French is a phonological phenomenon that remains poorly understood. The experiment conducted for the purposes of my Bachelor's thesis recorded speakers while they produced various words, which are predicted to exhibit what Poliquin (2006) has labeled as vowel harmony, in the context of a consistent phonetic environment. The data of five speakers, chosen at random, was used in conducting a preliminary analysis. This data suggests that the behaviour of laxing in several forms, notably of the types CH.CV, CH.CV.CHC, and CH.CV.CHZ may have implications for past analyses of Québec French vowel harmony, but require further research. A preliminary analysis also suggests that vowel harmony may be restricted in the number of speakers whose speech it appears in, although these speakers do appear to display it consistently. However, more research must be conducted before concrete conclusions can be made on the subject.</p>
+
+<br/><hr/><br/>
+<h2>Time and predictability in production
+<small>Asad Sayeed</small></h2>
+
+<p>Surprisal is an information-theoretic measure of the predictability of
+an event in a sequence of events. Surprisal in a linguistic context can
+be used to measure the predictability of linguistic events, such as word
+and n-gram utterances.  Syntactic surprisal is surprisal over parse
+trees at each step in the parsing process. Recent psycholinguistic
+theories hold that the information transfer rate as quantified by
+predictability plays a key role in the organization of linguistic
+cognition, a prediction that is believed to be borne out experimentally
+in e.g. reading-time studies.  However, the role of syntactic surprisal
+is until recently not as well-explored in the context of production.</p>
+<p>We explored the effect of syntactic surprisal as calculated from a
+well-known statistical parser on the relative duration of spoken words
+through the AMI corpus, which consists of the transcripts of staged
+focus group meetings.  The AMI corpus has corrected spellings and word
+durations.  Through a regression technique called linear mixed effects
+modeling, we found that syntactic surprisal has a potential audible
+effect over and above simpler predictability measures in conversational
+speech production.</p>
+<p>In this talk, I will discuss these findings by our team consisting of
+our group leader, Vera Demberg, myself, and graduate students Philip
+Gorinski and Nikolaos Engonopoulos.</p>
+
+<br/><hr/><br/>
+
+<h2>Bed&uuml;rfnisgerechte Extraktion
+<small>Jan Burse</small></h2>
+
+<p>Mit der Übertragung von Java/SQL nach Prolog konnten wir unsere Software um einen Faktor von ca. 100 beschleunigen. Es stellt sich nun die Frage ob diese Leistungsreserve für eine verbesserte Ex- traktion eingesetzt werden kann. Im Folgenden stellen wir ein Experiment zum Einbezug von logischen Prinzipien vor. Dabei entwickeln wir zuerst einen theoretischen Rahmen der Extraktion als Nut- zenoptimierung. Und zeigen dann wie sich eine heuristische Umsetzung darin wiederfindet.</p>
+<p>Unsere Software benutzt ein inkrementelles Verfahren zur Extraktion bei dem zuerst der Text geparst wird und anschliessen die gewonnene logische Repräsentation normalisiert wird. Die Extraktion lässt sich als Nutzenoptimierung darstellen. Eine direkte Umsetzung dieser Darstellung bietet sich jedoch nicht an. Sie würde einem Versuch-Irrtum Algorithmus gleichkommen der Aufgrund der Menge der Möglichkeiten auf dem Computer zu vermeiden ist.</p>
+<p>Ein Ausweg weist sich wenn die Nutzenfunktion die Dreiecksungleichung einer Halbmetrik erfüllt. Es bietet sich dann an, nicht den ganzen Satz zu optimieren, sondern nur optimale Auswahlen für einzelne Teilsätze zu finden, und diese dann zusammenzusetzen. Dieses Programm kann Ergebnisse vorlegen die sich dem Optimum nähern. Das Programm wird nur dann das Optimum verfehlen, wenn es eine Verbesserung der Extraktion gibt, die mehrere Teilsätze überspannt.</p>
+<p>Das Paradox des Mehrdeutigen "und" bei Aufzählungen ist das erste Problem für das wir eine Heuristik gefunden haben die sich gemäß dem dargestellten Ansatz anwenden lässt. Erste Tests haben ergeben dass die Heuristik sehr effizient und effektiv funktioniert. Wir planen die Entwicklung von zusätzlichen Heuristiken für verschiedene weitere Probleme.</p>
+
+<br/><hr/><br/>
+
+<h2>Effizienteres Arbeiten mit LaTeX
+<small>Pierpaolo Frasa</small></h2>
+
+<p>Dieser Workshop richtet sich an Leute, die bereits einige Erfahrung damit gesammelt haben, ihre Arbeiten oder Papers in LaTeX zu verfassen. Ich möchte hier einige Tipps und Techniken diskutieren, die zur Produktivitätssteigerung beitragen könnten, wie zum Beispiel Versionsverwaltung, Markdown, Makefiles oder das benutzen alternativer Compiler wie XeLaTeX. Da ich selbst kein Experte für LaTeX bin und sich meine Tipps nur aus eigenem Ausprobieren speisen, sind weitere Tipps natürlich herzlich willkommen und ich hoffe auf eine interessante Diskussion.</p>
+
+<br/><hr/><br/>
+
+<h2>Spatial Language: Issues and Discussions
+<small>Rumiya Izgalieva</small></h2>
+
+<p>Language and space have been studied by many linguists. The interest to this subject is explained by the fact that spatial expressions look very simple and therefore are being perceived as "simple" but they are sometimes very difficult to describe in natural language processing. "Simple" means that spatial expressions are often understood only in terms of topological relations. In this paper we try to give a general overview on spatial language issues, which involve some constraints in interpreting and formalizing spatial terms. The main directions in relating spatial expressions assume either relating them to the world which involves classical geometry methods in describing space or relating spatial expressions to descriptions of the world which moves away from the pure geometric interpretation and provides more flexibility in formalizing spatial semantics. We looked at how spatial semantics is applied in practice within GUM linguistic ontology and different applications of annotating spatial terms in text. Finally, we gave a detailed account of the implementation- project "Generating Distinguishing Descriptions for Persons on the Picture" where we again faced the crucial issues of spatial semantics: these of frame reference, the resolution of ambiguities in spatial relations and complexity of relations between objects in space. The latter constitute our field of interest in future works.</p>
+
+<br/><hr/><br/>
+
+<h2>A computational simulation of the evolution of morphological segmentation
+<small>Richard Littauer</small></h2>
+
+<p>Studies have shown that eight-month old infants can segment continuous strings of speech syllables into word-like units using only statistical computation of syllables, without relying on acoustic or prosodic cues for word boundaries (Saffran96, Aslin98). These studies looked at phonotactic regularities and syllable transition probability, but did not take into account different types of statistical processes. In this paper, I propose using a computational simulation to examine four different statistical processes that may be used to segment uninterrupted phonological strings: word recognition, word frequency, syllable transition count, and syllable transition probability. By using an Iterated Learning Model to analyse the trends in transitional probabilities word internally for each generation, I propose modeling how infants may use transition counts to segment speech more adequately than statistically analysing syllable transitions. This will present a more complete picture of not only syllable segmentation but also the evolution of phonotactic rules and language segmentation processes.</p>
+
+<br/><hr/><br/>
+
+<h2>O Role Where art thou? - Weakly Supervised Resolution of Null Instantiations
+<small>Philip Gorinski</small></h2>
+
+<p>Semantic Role Labeling (SRL) is the task of finding the semantic roles of a predicate in a text. While most state-of-the-art strategies for automatic SRL focus on locally realized roles, in real world texts, many roles occur as Null Instantiations (NI) - roles realized outside the (sentential) scope of its predicate. At the same time, sparse data is a problem for fully supervised systems dealing with NI resolution. Therefor, we explore strategies for unsupervised or only weakly supervised automatic SRL systems. The proposed strategies show results competitive with the current state-of-the-art supervised system.</p>
+</div>

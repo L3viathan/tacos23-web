@@ -1,0 +1,50 @@
+<div class="row">
+<div>
+<div class="page-header">
+<h1>
+Anmeldung
+<small>f&uuml;r Teilnehmer</small>
+<br>
+</h1>
+</div>
+<form class="navbar-form pull-left" name="formname" action="submission.php">
+<div class="control-group">
+<div class="controls">
+<input id="form-name" name="form-name" type="text" class="span2" style="width:300px;" />
+<p class="help-block">Vor- und Zuname</p>
+</div>
+</div>
+<br />
+<div class="control-group">
+<div class="controls">
+<input id="form-email" name="form-email" type="email" class="span2" style="width:300px;" />
+<p class="help-block">Emailadresse</p>
+</div>
+</div>
+<br />
+<div class="control-group">
+<div class="controls">
+<input id="form-location" name="form-location" type="text" class="span2" style="width:300px;" />
+<p class="help-block">Studienort</p>
+</div>
+</div>
+<br />
+<div class="control-group">
+<div class="controls">
+<textarea id="form-notes" name="form-notes" class="span2" style="width:300px;" ></textarea>
+<p class="help-block">Anmerkungen</p>
+</div>
+</div>
+<label for="form-nobed"><input type="checkbox" name="form-nobed" id="form-nobed" class="btn" /> Ich ben&ouml;tige keine Unterkunft.</label>
+<br />
+<!-- <button type="button" class="btn" data-toggle="button"><i class="icon-check"></i> Ich ben&ouml;tige keine Unterkunft.</button> -->
+
+Ihr k&ouml;nnt auch schon am Donnerstag anreisen &mdash; etwa, wenn ihr etwas weiter weg wohnt.
+<br/>
+<strong>Die Teilnehmergeb&uuml;hr betr&auml;gt 10 &euro;.</strong> Vortragenden wird die Teilnahmegeb&uuml;hr erstattet. 
+<br/>
+<hr/>
+
+ <a href="#" onclick="javascript:formname.submit();" class="btn btn-success btn-large"><i class="icon-white icon-ok"></i> &nbsp;Abschicken</a>
+</form>
+</div>

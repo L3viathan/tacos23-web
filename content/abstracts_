@@ -1,0 +1,49 @@
+<div class="row">
+<div>
+<div class="page-header">
+<h1>
+Abstracts
+<!-- <small><del>Anmeldefrist:1.5.2013</del>&nbsp; &nbsp;<span class="label label-info">Verl&auml;ngert bis 14.05.</span></small> -->
+<br>
+</h1>
+</div>
+<h2>Inhaltsverzeichnis</h2>
+<h2>Metaphor Detection through Term Frequency
+<small>Marc Schulder</small></h2>
+<p>Metaphors are used to replace complicated or unfamiliar ideas with familiar, yet unrelated concepts that share an important attribute with the intended idea. The result is a conceptual mapping between metaphoric source and literal target meaning. Computational metaphor processing is divided into detection and interpretation.</p>
+<p>To detect metaphors, most existing approaches attempt to identify these conceptual mappings. They require resources for the source (metaphor) as well as the target domain, and a set of defined mappings between the two. Creating these resources is expensive and limits the scope of these systems
+They are also usually restricted to well-observed, conventionalized metaphors, and can not deal with neologisms. Since metaphors are a productive area of language, this is a major shortfall.</p>
+<p>We propose a statistical approach to metaphor detection that utilizes the uncommonness of novel metaphors. Words that do not match a text's typical vocabulary are highlighted as metaphor candidates. No knowledge of semantic concepts or the metaphor's source domain is required for this. We analyze the performance of this approach as an unsupervised standalone classifier and as a feature in a supervised graphical model.</p>
+
+<br/><hr/><br/>
+
+<h2>Vowel Harmony in Quebec French
+<small>Aleksandra Piwowarek</small></h2>
+<p>Vowel harmony in Québec French is a phonological phenomenon that remains poorly understood. The experiment conducted for the purposes of my Bachelor's thesis recorded speakers while they produced various words, which are predicted to exhibit what Poliquin (2006) has labeled as vowel harmony, in the context of a consistent phonetic environment. The data of five speakers, chosen at random, was used in conducting a preliminary analysis. This data suggests that the behaviour of laxing in several forms, notably of the types CH.CV, CH.CV.CHC, and CH.CV.CHZ may have implications for past analyses of Québec French vowel harmony, but require further research. A preliminary analysis also suggests that vowel harmony may be restricted in the number of speakers whose speech it appears in, although these speakers do appear to display it consistently. However, more research must be conducted before concrete conclusions can be made on the subject.</p>
+
+<br/><hr/><br/>
+<h2>Time and predictability in production
+<small>Asad Sayeed</small></h2>
+
+<p>Surprisal is an information-theoretic measure of the predictability of
+an event in a sequence of events. Surprisal in a linguistic context can
+be used to measure the predictability of linguistic events, such as word
+and n-gram utterances.  Syntactic surprisal is surprisal over parse
+trees at each step in the parsing process. Recent psycholinguistic
+theories hold that the information transfer rate as quantified by
+predictability plays a key role in the organization of linguistic
+cognition, a prediction that is believed to be borne out experimentally
+in e.g. reading-time studies.  However, the role of syntactic surprisal
+is until recently not as well-explored in the context of production.</p>
+<p>We explored the effect of syntactic surprisal as calculated from a
+well-known statistical parser on the relative duration of spoken words
+through the AMI corpus, which consists of the transcripts of staged
+focus group meetings.  The AMI corpus has corrected spellings and word
+durations.  Through a regression technique called linear mixed effects
+modeling, we found that syntactic surprisal has a potential audible
+effect over and above simpler predictability measures in conversational
+speech production.</p>
+<p>In this talk, I will discuss these findings by our team consisting of
+our group leader, Vera Demberg, myself, and graduate students Philip
+Gorinski and Nikolaos Engonopoulos.</p>
+</div>

@@ -1,0 +1,36 @@
+<div class="hero-unit">
+<div>
+<!-- <h1> Willkommen </h1> -->
+<img src="logo.png" style="height:150px;" />
+<p>
+Die TaCoS ist die Studentische Tagung der Computerlinguistik. Die dreiundzwanzigste TaCoS findet vom 31. Mai bis zum 2. Juni in Saarbr&uuml;cken statt.
+<br>
+</p>
+</div>
+<a class="btn" href="#"> Mehr &raquo; </a>
+</div>
+<div class="row">
+<div class="span4">
+<div>
+<h2>
+Call for Papers
+<br>
+</h2>
+<p>Das diesj&auml;hrige Orgateam in Saarbr&uuml;cken l&auml;d Studierende und Promovierende aus der Computerlinguistik und aus benachbarten F&auml;chern herzlich dazu ein, Beitr&auml;ge einzureichen und sich aktiv zu beteiligen.</p> 
+</div>
+<a class="btn btn-primary" href="?page=cfp"> Paper einreichen &raquo; </a>
+</div>
+<div class="span4">
+<div>
+<h2> Anfahrt &amp; Unterkunft</h2>
+<p> Saarbr&uuml;cken ist die Landeshauptstadt des Saarlandes und liegt am Drei-L&auml;nder-Eck Luxemburg-Frankreich-Deutschland. Wie ihr nach Saarbr&uuml;cken kommt und wo ihr w&auml;hrend der Tagung &uuml;bernachten k&ouml;nnt, erfahrt ihr hier. </p>
+</div>
+<a class="btn" href="?page=anfahrt"> Details &raquo; </a>
+</div>
+<div class="span4">
+<div>
+<h2> Anmeldung </h2>
+<p> Auch wenn eine Anmeldung nicht zwingend erforderlic.
+</div>
+<a class="btn btn-success" href="?page=anmeldung"> Zum Anmeldeformular &raquo; </a>
+</div>

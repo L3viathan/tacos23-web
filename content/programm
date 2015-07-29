@@ -1,0 +1,26 @@
+<div class="row">
+<div>
+<div class="page-header">
+<h1>
+Programm
+<small>Version 1.0</small>
+<br>
+</h1>
+</div>
+<div class="row">
+<table class="table table-condensed table-hover table-programm">
+<thead><td></td><td><strong>Donnerstag<small>,<br/> 30.05.</small></strong></td><td><strong>Freitag<small>,<br/> 31.05.</small></strong></td><td><strong>Samstag<small>,<br /> 01.06.</small></strong></td><td><strong>Sonntag<small>,<br/> 02.06.</small></strong></td></thead>
+<tbody>
+<tr><td>9-11 Uhr</td><td></td><td>Anmeldung</td><td style="color:green"><em><small><small>9:00</small></small></em>&nbsp;Fr&uuml;hst&uuml;ck<br/><em><small><small>10:50</small></small></em>&nbsp;Organisatorisches</td><td><em><small><small>10:00</small></small></em>&nbsp;Fr&uuml;hst&uuml;ck bei Benjamin Roth (Mainzer Str. 131)</td></tr>
+<tr><td>11-12 Uhr</td><td></td><td><em><small><small>11:15</small></small></em>&nbsp;Begr&uuml;&szlig;ung <em>(Orga)</em><br/><em><small><small>11:30</small></small></em>&nbsp;Begr&uuml;&szlig;ung <em>(Prof. Manfred Pinkal)</em></td><td><em><small><small>11:00</small></small></em>&nbsp; Bed&uuml;rfnisgerechte Extraktion <em>(Jan Burse)</em></td><td rowspan="7"></td></tr>
+<tr><td>12-13 Uhr</td><td></td><td><em><small><small>12:00</small></small></em>&nbsp;A computational simulation of the evolution of morphological segmentation <em>(Richard Littauer)</em></td><td><em>Mittagspause (Mensa)</em></td></tr>
+<tr><td>13-14 Uhr</td><td></td><td><em>Mittagspause (Rigatoni)</em></td><td><em><small><small>13:30</small></small></em>&nbsp;Effizienteres Arbeiten mit LaTeX <em>(Pierpaolo Frasa)</em></td></tr>
+<tr><td>14-15 Uhr</td><td></td><td><em><small><small>14:30</small></small></em>&nbsp;Nat&uuml;rlichsprachliche Dialogsysteme &ndash; Von der Forschung in die kommerzielle Anwendung <em>(Norbert Pfleger)</em></td><td><em><small><small>14:30</small></small></em>&nbsp;Spatial Language: Issues and Discussions <br><em>(Rumiya Izgalieva)</em></td></tr>
+<tr><td>15-16 Uhr</td><td></td><td><em><small><small>15:30</small></small></em>&nbsp;Vowel Harmony in Quebec French <em>(Aleksandra Piwowarek)</em></td><td><em><small><small>15:15</small></small> Kaffeepause</em><br/><em><small><small>15:45</small></small></em>&nbsp;O Role Where Art Thou? &ndash; Weakly Supervised Resolution of Null Instantiations <em>(Philip Gorinski)</em></td></tr>
+<tr><td>16-17 Uhr</td><td></td><td><em><small><small>16:30</small></small></em>&nbsp; Time and predictability in production <em>(Asad Sayeed)</em></td><td style="color:green;"><em><small><small>16:45</small></small></em>&nbsp;DiaNose: Wisdom of the Crowds meets Technical Documentation <em>(Tassilo Barth)</em></td></tr>
+<tr><td>17+ Uhr</td><td><em><small>20:00</small></em>&nbsp;Kneipentour <em>(Treffpunkt: Johanneskirche)</em></td><td><em><small>19:00</small></em>&nbsp;Stadtf&uuml;hrung <em>(Treffpunkt: Johanneskirche)</em></td><td style="color:green"><em><small><small>17:30</small></small></em>&nbsp;Abschlussveranstaltung<br/><em><small>18:30</small></em>&nbsp;Grillabend</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
